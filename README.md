@@ -1,5 +1,4 @@
 <h1 align="center">Yavuz Duman</h1>
-<h3 align="center">Yalova University</h3>
 
 - 🔭 I’m currently working on **C#**
 
