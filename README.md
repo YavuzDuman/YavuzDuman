@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **N-Tier Architecture and Dotnet**
 
-- 📫 How to reach me **dumanyavuz60@gmail.com % https://www.linkedin.com/in/yavuzduman/**
+- 📫 How to reach me **dumanyavuz60@gmail.com & https://www.linkedin.com/in/yavuzduman/**
 
 
 
